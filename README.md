@@ -28,4 +28,4 @@ The challenge is to make make analytical observations about the data using the d
 ## Other notes:
 
 - Some of the dataframes shown in the notebook are 'wide'
-- If the file is being viewed by the [Colab Notebook URL]: https://colab.research.google.com/drive/1jj44HefY8aslmMty8EUg2hdXwCAUMNjz, please scroll horizontally towards right to view the entire dataframe
+- If the file is being viewed by the ![Colab Notebook URL](https://colab.research.google.com/drive/1jj44HefY8aslmMty8EUg2hdXwCAUMNjz), please scroll horizontally towards right to view the entire dataframe
