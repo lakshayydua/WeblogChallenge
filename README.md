@@ -9,9 +9,9 @@ The challenge is to make make analytical observations about the data using the d
 
 2. Session THRESHOLD time is assumed to be 15 minutes:
 
-- A session can last longer than 15 minutes if the requests are actively received
+  * A session can last longer than 15 minutes if the requests are actively received
 
-- A session can last shorter than 15 minutes if there is no activity beyond 15 minutes from the last received request
+  * A session can last shorter than 15 minutes if there is no activity beyond 15 minutes from the last received request and max_timestamp - min_timestamp is a session is less than 15 minutes
 
 3. A session is specific to a user. Every user can have:
 
