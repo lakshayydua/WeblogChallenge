@@ -24,3 +24,8 @@ The challenge is to make make analytical observations about the data using the d
 - Google Colab iPython Notebook is used for this assignment and it can be viewed in the URL given below
 - When prompted to login, you can choose to ignore/cancel and view the file in read-only mode
 - Noetbook URL - https://colab.research.google.com/drive/1jj44HefY8aslmMty8EUg2hdXwCAUMNjz
+
+## Other notes:
+
+- Some of the dataframes shown in the notebook are 'wide'
+- If the file is being viewed by the [Colab Notebook URL]: https://colab.research.google.com/drive/1jj44HefY8aslmMty8EUg2hdXwCAUMNjz, please scroll horizontally towards right to view the entire dataframe
